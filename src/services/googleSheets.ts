@@ -19,7 +19,7 @@ class GoogleSheetsService {
     this.config = {
       webAppUrl:
         import.meta.env.VITE_GOOGLE_WEB_APP_URL ||
-        'https://script.google.com/macros/s/AKfycbxX6SOJAaH_HSVpt-RwqNnYhpF7tg2kOFkpRNf0eF5Yt55wlPEzLSb7UyMY31n2p9ee/exec',
+        'https://script.google.com/macros/s/AKfycbzjP9DMyk4RGjbfnOMHDHiA4Sycr7-0MvDiLD1XtgcSWUK2rH07h14f2tvAla_z_3HHSw/exec',
     };
 
     console.log(
